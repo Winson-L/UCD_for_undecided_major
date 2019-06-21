@@ -4,13 +4,13 @@ This is for the students in UCD who still has an undecided major after the first
 I used Python3 for this project.
 
 The steps to use this project:
-  1. Download the data from the website (UCD Catalog) -> Run the program "UCDAVIS_Major"
+  1. Download the data from the website (UCD Catalog) -> Run the program "UCDAVIS_Major.py"
   
-  2. Conver and store the data -> Run the program "Conver_data"
+  2. Conver and store the data -> Run the program "Conver_data.py"
   
   3. Choose the way to upload the courses you had taken:
-      a. Store as a text file and seperate with comma "," -> Run the program "real_square_file_input" 
-      b. Directly insert the course when you run the program -> Run the program "real_square_handly_input"
+      a. Store as a text file and seperate with comma "," -> Run the program "real_square_file_input.py" 
+      b. Directly insert the course when you run the program -> Run the program "real_square_handly_input.py"
   
   4. You will receive the result on as a text file in the address that you set. 
      -- Be careful on the saving file address since I used Windows, not Linux. 
