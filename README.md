@@ -19,3 +19,4 @@ Reminder:
   1. The time that you download the data will be long. I tested on 6/20/19, and the time was about 12 mins for the whole catalogs
   2. The website URL may be change according to the UCD catalog, so you may need to change it.
 
+If you have any suggestions, please let me know. Thank you so much for your time, and hope this can help you in some ways.
